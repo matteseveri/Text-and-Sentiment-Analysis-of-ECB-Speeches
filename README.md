@@ -1,4 +1,4 @@
-# Text-and-Sentiment-Analysis-of-ECB-Speeches
+# Text and Sentiment Analysis of ECB Speeches
 Authors: Matteo Severi · Gianluca Antonio Spennacchio
 
 Course: Introduction to Python for Economists — University of Bologna
