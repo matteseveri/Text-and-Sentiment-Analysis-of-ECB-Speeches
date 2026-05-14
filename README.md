@@ -1,5 +1,6 @@
 # Text-and-Sentiment-Analysis-of-ECB-Speeches
 Authors: Matteo Severi · Gianluca Antonio Spennacchio
+
 Course: Introduction to Python for Economists — University of Bologna
 
 This project applies Natural Language Processing (NLP) and machine learning to a corpus of European Central Bank (ECB) speeches to measure how the tone of monetary policy communication evolves over time.
